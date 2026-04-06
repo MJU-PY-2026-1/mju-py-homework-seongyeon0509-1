@@ -41,7 +41,7 @@
     * **적용 내용:** 닉네임 입력 + 스텟 분배 + 직업 결정으로 이어지는 구조. *하지만 아직 진도 나가지 않은 부분으로 짜줘서 다시 부탁 후* 변수 'nickname, str, agi, int, luk, total, job' 자료형 'str, int, list'로 기초 문법 제시.
     
 ### **📁 증빙 자료:**
-  * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [1차_AI협업 캡처.pdf](https://github.com/user-attachments/files/26513654/1._AI.pdf)
 
 <br>
 
